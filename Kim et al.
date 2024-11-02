@@ -1,0 +1,32 @@
+Single Cell Vs. Single Nucleus 
+
+Readme
+
+Introduction
+
+Single nucleus RNA sequencing provides an alternative method to obtaining information from cells that may be too fragile for the single cell RNA process. This paper gives an excellent review of the experimental procedure of single-nucleus RNA sequencing and performs a comparative analysis of cell types detected by scRNA-seq and snRNA-seq.
+
+
+Why did this paper interest me?
+
+There are endless ways to analyze data, as I am learning along my bioinformatics journey. I came across the paper while on my nth read of ANOTHER paper for a DIFFERENT analysis I was working on. I read the whole paper. Started the whole analysis. But something was different about it ... the steps were ... just a smidge different. For example, I was ready to filter out mitochondrial genes for QC and that step wasn't needed. As it turns out, I can't read. 
+
+Blum et al. performed a single NUCLEUS RNA sequencing analysis (snRNA-seq). So I began my research and discovered this wonderful paper that explains the process of single nucleus RNA sequencing with a comparable analysis that I aimed to reproduce. 
+
+What is my end goal?
+
+By learning additional methods for analyzing cells that may be difficult to isolate, I can continue to study diseases that affect the brain and spinal cord. 
+
+
+
+
+
+
+
+
+Source: 
+
+Perspectives on single-nucleus RNA sequencing in different cell types and tissues
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9846005/
