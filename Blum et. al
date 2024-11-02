@@ -1,0 +1,13 @@
+Mouse Neuron
+
+
+
+Introduction
+
+
+Blum et al. (2021) performed single nucleus RNA sequencing analysis on motor neurons from the adult mouse spinal cord. 
+
+They identified 16 sympathetic motor neuron clusters. They were surprised to discover skeletal motor neuron heterogeneity within the spinal cord.  
+
+
+Reanalyze Blum et al. 2021 paper (Single-cell transcriptomic analysis of the adult mouse spinal cord reveals molecular diversity of autonomic and skeletal motor neurons) with the objective of correctly identifying neuronal cell types based on gene expression. 
